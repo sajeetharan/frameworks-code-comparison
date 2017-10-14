@@ -974,7 +974,6 @@ export class RegistrationComponentCtrl {
         <special-offer></special-offer>
     </div>  
 ```
- 
 
 ### Angular
 
